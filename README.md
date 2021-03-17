@@ -1,6 +1,10 @@
-- 👋 Hi, I’m *JieRu*, a front-end web developer/designer in Singapore
+<p align="center">
+  👋
+  Hi, I’m <em>JieRu</em>, a front-end web developer/designer in Singapore
+</p>
+
 - 👀 I’ve worked on... 
-  - Design library with Angular, Bootstrap, Storybook
+  - Component/Design library with Angular, Bootstrap, Storybook
   - Multilingual sites with Eleventy, Angular
   - Scrollytelling sites with GSAP, IntersectionObserver, Alpine.js
   - Ecommerce sites with Shopify
