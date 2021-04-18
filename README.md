@@ -11,7 +11,6 @@
   - Interactive dashboard with Flask, Plotly
   - Responsive HTML email templates with Pug
   - CRM flows with Eloqua
-- 🌱 I’m currently learning & re-learning... GSAP 3, React, RxJS, +++
 - 📫 How to reach me – cjieru@gmail.com ✨
 
 <!---
